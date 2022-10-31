@@ -650,7 +650,7 @@ L_10_:NewButton(
 local ez = L_4_:NewTab("Fly")
 local lol69 = ez:NewSection("Zeus.cc v4")
 lol69:NewButton("fly(x)", "fly like bird", function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/sUA9m6M6"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZenXTheMen/fly/main/revamped"))()
 end)
 
 --
